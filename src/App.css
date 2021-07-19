@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+  font-size: medium;
+}
+
+button {
+  background-color: cadetblue;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
